@@ -1,0 +1,103 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background-image: url("https://media.giphy.com/media/l4HodHqrOxbBRz9x6/giphy.gif");
+  background-size: 100%;
+}
+h1 {
+  text-align: center;
+  color: white;
+
+}
+h2{
+  color: white;
+  text-align: center;
+}
+.hell {
+  margin-left: 63%;
+  font-size: 45px;
+  color: white;
+}
+#hell2 {
+  margin-left: 64%;
+}
+#hell3 {
+  margin-left: 65%;
+}
+#hell4 {
+  margin-left: 66%
+}
+.bigbite {
+  text-align: center;
+  color: white;
+}
+#reclame1 {
+  width: 25%;
+  height: 20%;
+  right: 900px;
+  top: 25px;
+}
+#reclame2 {
+  width: 46%;
+  height: 63%;
+  left: 53px;
+  top: 150px;
+}
+#reclame3 {
+  width: 32%;
+  height: 18%;
+  right: 100px;
+  top: 40px;
+}
+#reclame4 {
+  width: 15%;
+  height: 65%;
+  right: 150px;
+  top: 180px;
+}
+.reclame {
+  position: fixed;
+}
+.cyka {
+  color: white;
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #161515;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-image: url("https://data.whicdn.com/images/225375194/original.gif");
+    background-size: 100%;
+}
+.zijkant {
+  position: static;
+  bottom: 400px;
+  margin: 25px;
+  margin-top: 25px;
+}
