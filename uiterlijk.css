@@ -33,6 +33,10 @@ h2{
 .bigbite {
   text-align: center;
   color: white;
+  position: absolute;
+  bottom: 10px;
+  left: 35%;
+  right: 35%;
 }
 #reclame1 {
   width: 25%;
@@ -64,8 +68,8 @@ h2{
 .cyka {
   color: white;
   text-align: center;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 230px;
+  margin-right: 230px;
 }
 ul {
     list-style-type: none;
@@ -95,9 +99,51 @@ li a:hover:not(.active) {
     background-image: url("https://data.whicdn.com/images/225375194/original.gif");
     background-size: 100%;
 }
-.zijkant {
-  position: static;
-  bottom: 400px;
+
+
+#ding {
+  margin-left: 30%;
+  background-color: red;
+}
+
+.rechts{
+  background-image: url("https://i.gifer.com/b2e.gif");
+  position: absolute;
+  right: 10px;
+  top: 200px;
+  float: right;
+  text-align: right;
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  filter: FlipH;
+  -ms-filter: "FlipH";
+  font-size: 30px;
+  margin-right: 10px;
+  padding-bottom: 100px;
+  background-size: 300%;
+  border-radius: 25px;
+}
+
+.links {
+  background-image: url("https://i.gifer.com/b2e.gif");
+  background-size: 300%;
+  float: left;
+  position: absolute;
+  left: 10px;
+  top: 200px;
+  font-size: 30px;
+  padding-bottom: 100px;
+  margin-left: 10px;
+  border-radius: 25px;
+}
+h3 {
+  color: white;
+  text-align: center;
   margin: 25px;
-  margin-top: 25px;
+  margin-bottom: 10px;
+}
+strong {
+  text-decoration: line-through;
 }
