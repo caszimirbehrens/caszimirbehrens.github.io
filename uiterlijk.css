@@ -4,7 +4,7 @@
 }
 
 body{
-  background-image: url("https://media.giphy.com/media/l4HodHqrOxbBRz9x6/giphy.gif");
+  background-image: url("https://wallpaperhd.guru/wp-content/uploads/2017/05/Colorful-galaxy-images-wallpapers.jpg");
   background-size: 100%;
 }
 h1 {
@@ -76,7 +76,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #161515;
+    background-color: #2b5466;
 }
 
 li {
@@ -96,7 +96,7 @@ li a:hover:not(.active) {
 }
 
 .active {
-    background-image: url("https://data.whicdn.com/images/225375194/original.gif");
+    background-color: #1e3944;
     background-size: 100%;
 }
 
@@ -107,7 +107,7 @@ li a:hover:not(.active) {
 }
 
 .rechts{
-  background-image: url("https://i.gifer.com/b2e.gif");
+  background-image: url("https://www.obranueva.com/wp-content/uploads/2018/01/fondo-quieres-estrenar-obra-nueva-400x400.gif");
   position: absolute;
   right: 10px;
   top: 200px;
@@ -127,7 +127,7 @@ li a:hover:not(.active) {
 }
 
 .links {
-  background-image: url("https://i.gifer.com/b2e.gif");
+  background-image: url("https://www.obranueva.com/wp-content/uploads/2018/01/fondo-quieres-estrenar-obra-nueva-400x400.gif");
   background-size: 300%;
   float: left;
   position: absolute;
